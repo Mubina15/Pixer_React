@@ -1,0 +1,22 @@
+  .footer__link {
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-bottom: 56px;
+    transition: all 0.5s ease;
+  }
+  
+  .footer__link:hover {
+    color: #00BAFC;
+  }
+  
+  .footer__link:active {
+    color: #00BAFC;
+    opacity: 0.6;
+    transition: none;
+  }

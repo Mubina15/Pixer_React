@@ -1,0 +1,74 @@
+footer {
+    background-color: #191919;
+  }
+  
+  .copy {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    color: #FFFFFF;
+  }
+  
+  .footer__text {
+    width: 320px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+  }
+  
+  .orovchi {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .sayt {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    color: #FFFFFF;
+  }
+  
+  .telegram {
+    display: flex;
+    align-items: center;
+  }
+  
+  .tele {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: all 0.5s ease;
+  }
+  
+  .tele:hover {
+    color: #00BAFC;
+  }
+  
+  .tele:active {
+    color: #00BAFC;
+    opacity: 0.6;
+    transition: none;
+  }
+  
+  .internet {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    color: #FFFFFF;
+  }
+  
+  

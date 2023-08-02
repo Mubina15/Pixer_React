@@ -1,0 +1,52 @@
+.Biz {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    color: #000000;    
+  }
+
+ .nullam {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 222px;
+    text-align: center;
+    color: #000000;
+    width: 719px;
+    margin-bottom: 24px;
+ } 
+
+ .good {
+    display: flex;
+    padding-top: 54px;
+ }
+
+.buyurtma {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  background: #00BAFC;
+  padding: 8px 16px;
+  color: #FFFFFF; 
+  text-decoration: none;
+  border-radius: 5px; 
+  transition: all 0.5s ease;
+  margin-left: 520px;
+  margin-top: 49px;
+}
+
+.buyurtma:hover {
+  opacity: 0.5;
+}
+
+.buyurtma:active {
+  opacity: 0.7;
+  transition: none;
+}
