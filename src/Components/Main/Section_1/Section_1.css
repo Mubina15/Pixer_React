@@ -35,15 +35,6 @@
     width: 210px;
 }
 
-.card:hover {
-    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.1);
-}
-
-.card:active {
-    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
-    transition: none;
-}
-
 .card__title {
     font-family: 'Open Sans';
     font-style: normal;
